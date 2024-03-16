@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write('Helow World')
+st.write('Cinta Smngt Kerja :)')
